@@ -1,0 +1,9 @@
+A {
+TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+font {
+	font-size: 10pt;
+}

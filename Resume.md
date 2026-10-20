@@ -74,7 +74,7 @@ Engineered a distributed PHP MVC framework utilized as the foundation for a suit
 
 ### `WebOrigin Ltd`
 
-> `Full-Stack Developer`
+> `Core Full-Stack Developer`
 > Oct 2008 – Mar 2010
 
 Developed WebOrigin CMS, a tailored content management system for SMBs, and WebOrigin Store, a robust e-commerce platform.

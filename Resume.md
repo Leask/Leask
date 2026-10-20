@@ -46,35 +46,35 @@ Deeply involved in the design and development of various decentralized Web3 proj
 
 ### [`MaiMemo Inc.`](https://maimemo.com/)
 
-> CTO / Shareholder
+> `CTO / Shareholder`
 > Apr 2016 – May 2018
 
 Directed the engineering strategy for a top-ranking English vocabulary application, scaling the platform to support over 2 million cumulative downloads. Designed a robust, cloud-native architecture capable of handling massive, rapidly growing data traffic demands. Spearheaded a data mining initiative that directly informed the publication of a best-selling English education reference book. Invented and secured multiple technical patents related to educational algorithms and data processing.
 
 ### `Push Button Information LTD.`
 
-> Development Manager
+> `Development Manager`
 > Nov 2013 – Mar 2016
 
 Managed an engineering team based in China to build and scale web services and front-end solutions for an e-commerce discovery platform.
 
 ### `EXFE Holdings`
 
-> Web Architect
+> `Web Architect`
 > Sep 2011 – Oct 2013
 
 Acted as the foundational engineering hire for a group utility startup, architecting the entire back-end framework and server-side APIs supporting both web and mobile clients.
 
 ### `Safirst Technology Co., Ltd`
 
-> Lead Full-Stack Developer
+> `Lead Full-Stack Developer`
 > Mar 2010 – Sep 2011
 
 Engineered a distributed PHP MVC framework utilized as the foundation for a suite of enterprise SaaS applications.
 
 ### `WebOrigin Ltd New Zealand`
 
-> Full-Stack Developer
+> `Full-Stack Developer`
 > Oct 2008 – Mar 2010
 
 Developed WebOrigin CMS, a tailored content management system for SMBs, and WebOrigin Store, a robust e-commerce platform.

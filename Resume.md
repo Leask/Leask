@@ -30,7 +30,7 @@ Spearheaded the design and development of multiple AI Agent harness systems and 
 
 Authored and currently maintain [psql_bm25s, the world’s fastest PostgreSQL BM25 extension](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-psql_bm25s.md), and trained a bespoke [SAE encoder model](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-evoke-model.md) on top of it to enable advanced [Sparse Semantic Retrieval (SSR)](https://github.com/Intelligent-Internet/Evoke).
 
-### `Dream Lens`
+### [`Dream Lens`](https://apps.apple.com/ca/app/dreamlens-ai-photos/id6468432845)
 
 > AI Developer
 > Oct 2023 – Oct 2024

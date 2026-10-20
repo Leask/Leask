@@ -23,7 +23,7 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 ### [`Intelligent Internet`](https://ii.inc/)
 
-> Senior Machine Learning Engineer
+> `Senior Machine Learning Engineer`
 > Oct 2024 – Present
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
@@ -32,7 +32,7 @@ Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/
 
 ### [`Dream Lens`](https://apps.apple.com/ca/app/dreamlens-ai-photos/id6468432845)
 
-> AI Developer
+> `AI Developer`
 > Oct 2023 – Oct 2024
 
 Engineered distributed inference pipelines for image and video generation. Leveraged PyTorch and TensorFlow to optimize, and deploy generative AI, facial recognition, feature extraction, and human posture estimation models. Continuously evaluated and integrated modern technology stacks to accelerate product delivery and meet stringent project requirements.

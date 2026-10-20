@@ -71,9 +71,9 @@ A cloud-native browser terminal engineered for the AI era. Features persistent s
 
 ## References
 
-- Intelligent Internet / Dream Lens / PRESS.one / RumSystem / EXFE:
+- Intelligent Internet / Dream Lens / PRESS.one / RumSystem / EXFE
     > Manager, [Ju Huo](mailto:virushuo@gmail.com), Canada
-- MaiMemo Inc.:
+- MaiMemo Inc.
     > Founder, [Xiao Yue](mailto:yaoxao@gmail.com), China
-- Safirst Technology Co., Ltd:
+- Safirst Technology Co., Ltd
     > Manager, [Congming Wang](mailto:lovelywcm@gmail.com), China

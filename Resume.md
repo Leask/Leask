@@ -6,7 +6,7 @@
 - Email: i@leaskh.com
 - GitHub: github.com/Leask
 - Blog: leaskh.com
-- [Mobile](sms:+19715177039) / [Telegram](https://t.me/leask): +1 (971) 517-7039
+- [Mobile](sms://+19715177039) / [Telegram](https://t.me/leask): +1 (971) 517-7039
 
 ## 🧑‍💻 Summary
 

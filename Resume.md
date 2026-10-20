@@ -39,7 +39,7 @@ Engineered distributed inference pipelines for image and video generation. Lever
 
 ### `PRESS.one` / [`RumSystem`](https://rumsystem.net/)
 
-> Core Full-Stack Developer
+> `Core Full-Stack Developer`
 > May 2018 – Oct 2023
 
 Deeply involved in the design and development of various decentralized Web3 projects. We built copyright signing services based on ETH and EOS, implemented payments and cross-chain transactions based on BTC and the Lightning Network, developed decentralized storage systems based on IPFS and BitTorrent, and integrated all of these technologies to propose RUM as a next-generation solution for internet content distribution and storage. Through these projects, I extensively explored Web3, blockchain, smart contracts, and cross-chain transactions. This process is quite fascinating. The design of distributed and zero-trust networks is captivating, and the application of these technologies has given me a deeper understanding of future network architectures.

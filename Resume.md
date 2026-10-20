@@ -79,7 +79,7 @@ Engineered a distributed PHP MVC framework utilized as the foundation for a suit
 
 Developed WebOrigin CMS, a tailored content management system for SMBs, and WebOrigin Store, a robust e-commerce platform.
 
-## 🤖 Recent Projects / Open Source
+## 🐙 Recent Projects / Open Source
 
 ### `Escape`
 

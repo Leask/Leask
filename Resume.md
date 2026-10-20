@@ -8,18 +8,18 @@
 - Blog: leaskh.com
 - Mobile / Telegram: +1 (971) 517-7039
 
-## Summary
+## 🧑‍💻 Summary
 
 Passionate technology enthusiast and highly adaptable software engineer with over 15 years of experience spanning full-stack development, Web3 distributed systems, and cutting-edge AI infrastructure. Driven by a deep curiosity for modern software and hardware, I excel at identifying optimal implementation paths for complex ideas and delivering robust, scalable solutions. Rather than being defined by specific programming languages, I leverage a strong engineering intuition to navigate rapid technological shifts. Whether designing multi-agent workflows, authoring core database extensions, or exploring 3D printing and hardware integration, I thrive on solving difficult engineering challenges and continuously pushing the boundaries of automation and product development.
 
-## Tech / Interests
+## 🧠 Tech / Interests
 
 - AI: Machine Learning, LLM, RAG, Agentic
 - Distributed: Blockchain, Web3, P2P, Cloud Infrastructure
 - Engineering: Full-Stack, Cloud-Native, Open-Source
 - Creative: Game, 3D Printing, CAD
 
-## Works
+## 💼 Works
 
 ### [`Intelligent Internet`](https://ii.inc/)
 
@@ -99,7 +99,7 @@ An autonomous, AI-curated community platform that continuously iterates a databa
 
 A cloud-native browser terminal engineered for the AI era. Features persistent server-side sessions, a built-in code editor, and seamless integration with mainstream coding agents via the Agent Client Protocol (ACP). Designed to provide a ubiquitous, device-agnostic development environment that maintains workflow continuity across desktops, tablets, and mobile devices.
 
-## References
+## 📧 References
 
 - Intelligent Internet / Dream Lens / PRESS.one / RumSystem / EXFE
     > Manager, [Ju Huo](mailto:virushuo@gmail.com), Canada

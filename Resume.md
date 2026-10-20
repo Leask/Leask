@@ -28,7 +28,7 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
 
-Authored and currently maintain [psql_bm25s](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-psql_bm25s.md), the world’s fastest PostgreSQL BM25 extension, and trained a bespoke [SAE encoder model](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-evoke-model.md) on top of it to enable advanced [Sparse Semantic Retrieval (SSR)](https://github.com/Intelligent-Internet/Evoke).
+Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-psql_bm25s.md), the world’s fastest PostgreSQL BM25 extension, and trained a bespoke [SAE encoder model](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-evoke-model.md) on top of it to enable advanced [Sparse Semantic Retrieval (SSR)](https://github.com/Intelligent-Internet/Evoke).
 
 ### [`Dream Lens`](https://apps.apple.com/ca/app/dreamlens-ai-photos/id6468432845)
 

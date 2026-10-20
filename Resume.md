@@ -72,7 +72,7 @@ Acted as the foundational engineering hire for a group utility startup, architec
 
 Engineered a distributed PHP MVC framework utilized as the foundation for a suite of enterprise SaaS applications.
 
-### `WebOrigin Ltd New Zealand`
+### `WebOrigin Ltd`
 
 > `Full-Stack Developer`
 > Oct 2008 – Mar 2010

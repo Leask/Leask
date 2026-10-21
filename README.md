@@ -37,8 +37,6 @@ Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/
 > `AI Developer`
 > Oct 2023 – Oct 2024
 
-<img alt="Screenshot 2026-10-20 at 9 21 08 PM" src="https://github.com/user-attachments/assets/ce47cdad-d5c4-4a19-9139-e2b8a831df50" />
-
 Engineered distributed inference pipelines for image and video generation. Leveraged PyTorch and TensorFlow to optimize, and deploy generative AI, facial recognition, feature extraction, and human posture estimation models. Continuously evaluated and integrated modern technology stacks to accelerate product delivery and meet stringent project requirements.
 
 ### `PRESS.one` / [`RumSystem`](https://rumsystem.net/)

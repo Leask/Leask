@@ -98,7 +98,7 @@ An autonomous, AI-curated community platform that continuously iterates a databa
 
 > Nov 2025 – Present
 
-<img width="2188" height="1691" alt="Screenshot 2026-03-26 at 2 40 39 PM" src="https://github.com/user-attachments/assets/ed2d624e-f39f-44e8-9564-d7a44bf67db3" />
+<img width="1439" height="1094" alt="Screenshot 2026-03-26 at 11 00 10 PM" src="https://github.com/user-attachments/assets/abcb5581-a2fb-4d2a-9070-40b32f72d059" />
 
 A cloud-native browser terminal engineered for the AI era. Features persistent server-side sessions, a built-in code editor, and seamless integration with mainstream coding agents via the Agent Client Protocol (ACP). Designed to provide a ubiquitous, device-agnostic development environment that maintains workflow continuity across desktops, tablets, and mobile devices.
 

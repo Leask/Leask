@@ -31,9 +31,11 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
 
+Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-psql_bm25s.md), the world’s fastest PostgreSQL BM25 extension, and trained a bespoke [SAE encoder model](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-evoke-model.md) on top of it to enable advanced [Sparse Semantic Retrieval (SSR)](https://github.com/Intelligent-Internet/Evoke).
+
 <img width="1600" height="1240" alt="pg18-qps-vs-dataset-scale-2026-04-02" src="https://github.com/user-attachments/assets/738c1a7b-7b5a-4d91-b71b-dba783739a97" />
 
-Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-psql_bm25s.md), the world’s fastest PostgreSQL BM25 extension, and trained a bespoke [SAE encoder model](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-evoke-model.md) on top of it to enable advanced [Sparse Semantic Retrieval (SSR)](https://github.com/Intelligent-Internet/Evoke).
+Based on this continuously converging lexical and semantic unified index, I built an AI agent called [Commons](https://commons.ii.inc/) on top of it. Commons indexes the latest papers from arXiv and PubMed in real time. Users can query the agent for the latest papers at any time, discuss a specific paper in depth, and ask what research ideas may be relevant to their own work and what insights they might gain. So far, Commons has indexed 3M aeXiv papers and 8M PubMed papers, and has achieved millisecond-level hybrid search.
 
 ### [`Dream Lens`](https://apps.apple.com/ca/app/dreamlens-ai-photos/id6468432845)
 

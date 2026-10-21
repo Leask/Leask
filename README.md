@@ -14,8 +14,6 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 ## 🧠 Tech / Interests
 
-![Leask's GitHub stats](https://github-readme-stats-tau-one-74.vercel.app/api?username=Leask&show_icons=true&theme=transparent)
-
 - AI: Machine Learning, LLM, RAG, Agentic Harness, FDE
 - Distributed: Blockchain, Web3, P2P
 - Engineering: Full-Stack, Cloud-Native, Open-Source
@@ -82,6 +80,8 @@ As a core developer, I was primarily responsible for designing the backend archi
 During this period, the main responsibility was leading the team in developing infrastructure such as CMS, e-commerce platforms, and distributed PHP MVC frameworks to support various enterprise-grade SaaS applications.
 
 ## 🐙 Recent Projects / Open Source
+
+![Leask's GitHub stats](https://github-readme-stats-tau-one-74.vercel.app/api?username=Leask&show_icons=true&theme=transparent)
 
 ### `Escape`
 

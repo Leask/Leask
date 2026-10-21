@@ -92,6 +92,8 @@ A physics-based 3D driving game developed entirely using an automated AI agent h
 
 > Oct 2026 – Present
 
+<img width="960" height="504" alt="tensortrace" src="https://github.com/user-attachments/assets/28dead20-8738-4898-a061-a75ddf9bc420" />
+
 An autonomous, AI-curated community platform that continuously iterates a database of AI models, news, papers, and inference providers. Utilizes vector databases and SSR matching to process massive data streams entirely through multi-agent collaboration, designing a new paradigm for automated website generation and information integration.
 
 ### [`Tabminal`](https://github.com/leask/tabminal)

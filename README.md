@@ -23,10 +23,10 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 ### [`Intelligent Internet`](https://ii.inc/)
 
-> `Senior Machine Learning Engineer`
-
+> Senior Machine Learning Engineer
+> 
 > Oct 2024 – Present
-
+> 
 > References: Manager, [Ju Huo](mailto:virushuo@gmail.com), Canada
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
@@ -37,44 +37,52 @@ Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/
 
 ### [`Dream Lens`](https://apps.apple.com/ca/app/dreamlens-ai-photos/id6468432845)
 
-> `AI Developer`
+> AI Developer
+> 
 > Oct 2023 – Oct 2024
 
 Engineered distributed inference pipelines for image and video generation. Leveraged PyTorch and TensorFlow to optimize, and deploy generative AI, facial recognition, feature extraction, and human posture estimation models. Continuously evaluated and integrated modern technology stacks to accelerate product delivery and meet stringent project requirements.
 
 ### `PRESS.one` / [`RumSystem`](https://rumsystem.net/)
 
-> `Core Full-Stack Developer`
+> Core Full-Stack Developer
+> 
 > May 2018 – Oct 2023
 
 Deeply involved in the design and development of various decentralized Web3 projects. We built copyright signing services based on ETH and EOS, implemented payments and cross-chain transactions based on BTC and the Lightning Network, developed decentralized storage systems based on IPFS and BitTorrent, and integrated all of these technologies to propose RUM as a next-generation solution for internet content distribution and storage. Through these projects, I extensively explored Web3, blockchain, smart contracts, and cross-chain transactions. This process is quite fascinating. The design of distributed and zero-trust networks is captivating, and the application of these technologies has given me a deeper understanding of future network architectures.
 
 ### [`MaiMemo Inc.`](https://maimemo.com/)
 
-> `CTO / Shareholder`
+> CTO / Shareholder
+> 
 > Apr 2016 – May 2018
+> 
 > References: Founder, [Xiao Yue](mailto:yaoxao@gmail.com), China
 
 Directed the engineering strategy for a top-ranking English vocabulary application, scaling the platform to support over 2 million cumulative downloads. Designed a robust, cloud-native architecture capable of handling massive, rapidly growing data traffic demands. Spearheaded a data mining initiative that directly informed the publication of a best-selling English education reference book. Invented and secured multiple technical patents related to educational algorithms and data processing.
 
 ### `Push Button Information LTD.`
 
-> `Development Manager`
+> Development Manager
+> 
 > Nov 2013 – Mar 2016
 
 Managed an engineering team based in China to build and scale web services and front-end solutions for an e-commerce discovery platform.
 
 ### `EXFE Holdings`
 
-> `Web Architect`
+> Web Architect
+> 
 > Sep 2011 – Oct 2013
 
 Acted as the foundational engineering hire for a group utility startup, architecting the entire back-end framework and server-side APIs supporting both web and mobile clients.
 
 ### `Safirst Technology Co., Ltd` / `WebOrigin Ltd`
 
-> `Lead Full-Stack Developer`
+> Lead Full-Stack Developer
+> 
 > Mar 2008 – Sep 2011
+> 
 > References: Manager, [Congming Wang](mailto:lovelywcm@gmail.com), China
 
 During this period, the main responsibility was leading the team in developing infrastructure such as CMS, e-commerce platforms, and distributed PHP MVC frameworks to support various enterprise-grade SaaS applications.

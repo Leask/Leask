@@ -25,7 +25,7 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 > Senior Machine Learning Engineer<br>
 > Oct 2024 – Present<br>
-> References: Manager, @huo-ju, Canada
+> References: Manager, [Ju Huo](https://github.com/huo-ju), Canada
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
 

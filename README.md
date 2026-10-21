@@ -14,6 +14,8 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 ## 🧠 Tech / Interests
 
+![Leask's GitHub stats](https://github-readme-stats-tau-one-74.vercel.app/api?username=Leask&show_icons=true&theme=transparent)
+
 - AI: Machine Learning, LLM, RAG, Agentic Harness, FDE
 - Distributed: Blockchain, Web3, P2P
 - Engineering: Full-Stack, Cloud-Native, Open-Source

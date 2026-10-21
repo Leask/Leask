@@ -69,7 +69,7 @@ Managed an engineering team based in China to build and scale web services and f
 > Web Architect<br>
 > Sep 2011 – Oct 2013
 
-Acted as the foundational engineering hire for a group utility startup, architecting the entire back-end framework and server-side APIs supporting both web and mobile clients.
+As a core developer, I was primarily responsible for designing the backend architecture of an SNS project and developing the backend APIs to support web and mobile clients.
 
 ### `Safirst Technology Co., Ltd` / `WebOrigin Ltd`
 

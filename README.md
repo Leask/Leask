@@ -92,7 +92,7 @@ A physics-based 3D driving game developed entirely using an automated AI agent h
 
 > Oct 2026 – Present
 
-<img width="960" height="504" alt="tensortrace" src="https://github.com/user-attachments/assets/28dead20-8738-4898-a061-a75ddf9bc420" />
+<img alt="tensortrace" src="https://github.com/user-attachments/assets/28dead20-8738-4898-a061-a75ddf9bc420" />
 
 An autonomous, AI-curated community platform that continuously iterates a database of AI models, news, papers, and inference providers. Utilizes vector databases and SSR matching to process massive data streams entirely through multi-agent collaboration, designing a new paradigm for automated website generation and information integration.
 
@@ -100,7 +100,7 @@ An autonomous, AI-curated community platform that continuously iterates a databa
 
 > Nov 2025 – Present
 
-<img width="1439" height="1094" alt="Screenshot 2026-03-26 at 11 00 10 PM" src="https://github.com/user-attachments/assets/abcb5581-a2fb-4d2a-9070-40b32f72d059" />
+<img alt="Screenshot 2026-03-26 at 11 00 10 PM" src="https://github.com/user-attachments/assets/abcb5581-a2fb-4d2a-9070-40b32f72d059" />
 
 A cloud-native browser terminal engineered for the AI era. Features persistent server-side sessions, a built-in code editor, and seamless integration with mainstream coding agents via the Agent Client Protocol (ACP). Designed to provide a ubiquitous, device-agnostic development environment that maintains workflow continuity across desktops, tablets, and mobile devices.
 

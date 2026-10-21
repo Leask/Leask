@@ -83,7 +83,7 @@ During this period, the main responsibility was leading the team in developing i
 
 > Oct 2026 – Present
 
-<img alt="download-1" src="https://github.com/user-attachments/assets/9d9b3efc-55e7-4799-bae3-b4f961b9aaed" />
+<img alt="Escape" src="https://github.com/user-attachments/assets/9d9b3efc-55e7-4799-bae3-b4f961b9aaed" />
 
 A physics-based 3D driving game developed entirely using an automated AI agent harness. Collaborated with specialized coding agents to transition from concept to a high-quality 3D prototype, tackling complex engineering challenges like 3D visual convergence within an agentic environment across diverse terrains, weather conditions, and vehicle physics.
 
@@ -91,7 +91,7 @@ A physics-based 3D driving game developed entirely using an automated AI agent h
 
 > Oct 2026 – Present
 
-<img alt="tensortrace" src="https://github.com/user-attachments/assets/28dead20-8738-4898-a061-a75ddf9bc420" />
+<img alt="TensorTrace" src="https://github.com/user-attachments/assets/28dead20-8738-4898-a061-a75ddf9bc420" />
 
 An autonomous, AI-curated community platform that continuously iterates a database of AI models, news, papers, and inference providers. Utilizes vector databases and SSR matching to process massive data streams entirely through multi-agent collaboration, designing a new paradigm for automated website generation and information integration.
 
@@ -99,6 +99,6 @@ An autonomous, AI-curated community platform that continuously iterates a databa
 
 > Nov 2025 – Present
 
-
+<img alt="Tabminal" src="https://github.com/user-attachments/assets/cd536544-a334-4f74-9d5c-85f68879d952" />
 
 A cloud-native browser terminal engineered for the AI era. Features persistent server-side sessions, a built-in code editor, and seamless integration with mainstream coding agents via the Agent Client Protocol (ACP). Designed to provide a ubiquitous, device-agnostic development environment that maintains workflow continuity across desktops, tablets, and mobile devices.

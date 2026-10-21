@@ -24,7 +24,10 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 ### [`Intelligent Internet`](https://ii.inc/)
 
 > `Senior Machine Learning Engineer`
+
 > Oct 2024 – Present
+
+> References: Manager, [Ju Huo](mailto:virushuo@gmail.com), Canada
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
 
@@ -50,6 +53,7 @@ Deeply involved in the design and development of various decentralized Web3 proj
 
 > `CTO / Shareholder`
 > Apr 2016 – May 2018
+> References: Founder, [Xiao Yue](mailto:yaoxao@gmail.com), China
 
 Directed the engineering strategy for a top-ranking English vocabulary application, scaling the platform to support over 2 million cumulative downloads. Designed a robust, cloud-native architecture capable of handling massive, rapidly growing data traffic demands. Spearheaded a data mining initiative that directly informed the publication of a best-selling English education reference book. Invented and secured multiple technical patents related to educational algorithms and data processing.
 
@@ -71,6 +75,7 @@ Acted as the foundational engineering hire for a group utility startup, architec
 
 > `Lead Full-Stack Developer`
 > Mar 2008 – Sep 2011
+> References: Manager, [Congming Wang](mailto:lovelywcm@gmail.com), China
 
 During this period, the main responsibility was leading the team in developing infrastructure such as CMS, e-commerce platforms, and distributed PHP MVC frameworks to support various enterprise-grade SaaS applications.
 
@@ -97,12 +102,3 @@ An autonomous, AI-curated community platform that continuously iterates a databa
 <img alt="Screenshot 2026-03-26 at 11 00 10 PM" src="https://github.com/user-attachments/assets/abcb5581-a2fb-4d2a-9070-40b32f72d059" />
 
 A cloud-native browser terminal engineered for the AI era. Features persistent server-side sessions, a built-in code editor, and seamless integration with mainstream coding agents via the Agent Client Protocol (ACP). Designed to provide a ubiquitous, device-agnostic development environment that maintains workflow continuity across desktops, tablets, and mobile devices.
-
-## 📧 References
-
-- Intelligent Internet / Dream Lens / PRESS.one / RumSystem / EXFE
-    > Manager, [Ju Huo](mailto:virushuo@gmail.com), Canada
-- MaiMemo Inc.
-    > Founder, [Xiao Yue](mailto:yaoxao@gmail.com), China
-- Safirst Technology Co., Ltd
-    > Manager, [Congming Wang](mailto:lovelywcm@gmail.com), China

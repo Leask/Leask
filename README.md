@@ -13,7 +13,7 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 ## 🧠 Tech / Interests
 
-- AI: Machine Learning, LLM, RAG, Agentic
+- AI: Machine Learning, LLM, RAG, Agentic, FDE
 - Distributed: Blockchain, Web3, P2P, Cloud Infrastructure
 - Engineering: Full-Stack, Cloud-Native, Open-Source
 - Creative: Game, 3D Printing, CAD

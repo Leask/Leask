@@ -83,6 +83,8 @@ During this period, the main responsibility was leading the team in developing i
 
 > Oct 2026 – Present
 
+<img alt="download-1" src="https://github.com/user-attachments/assets/9d9b3efc-55e7-4799-bae3-b4f961b9aaed" />
+
 A physics-based 3D driving game developed entirely using an automated AI agent harness. Collaborated with specialized coding agents to transition from concept to a high-quality 3D prototype, tackling complex engineering challenges like 3D visual convergence within an agentic environment across diverse terrains, weather conditions, and vehicle physics.
 
 ### [`TensorTrace.net`](https://tensortrace.net)
@@ -97,6 +99,6 @@ An autonomous, AI-curated community platform that continuously iterates a databa
 
 > Nov 2025 – Present
 
-<img alt="Screenshot 2026-03-26 at 11 00 10 PM" src="https://github.com/user-attachments/assets/abcb5581-a2fb-4d2a-9070-40b32f72d059" />
+
 
 A cloud-native browser terminal engineered for the AI era. Features persistent server-side sessions, a built-in code editor, and seamless integration with mainstream coding agents via the Agent Client Protocol (ACP). Designed to provide a ubiquitous, device-agnostic development environment that maintains workflow continuity across desktops, tablets, and mobile devices.

@@ -1,6 +1,6 @@
 # [Sixia "Leask" Huang](https://leaskh.com)
 
-- He/him, YOB 1984
+- he/him, YOB 1984
 - Ottawa, ON, Canada
 - Bachelor of Economics, SCNU, China
 - Email: [i@leaskh.com](mailto:i@leaskh.com)

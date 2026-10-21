@@ -5,6 +5,7 @@
 - Bachelor of Economics, SCNU, China
 - Email: [i@leaskh.com](mailto:i@leaskh.com)
 - GitHub: [github.com/Leask](https://github.com/Leask)
+- LinkedIn: [in/sixia-huang-2b07697](https://www.linkedin.com/in/sixia-huang-2b07697/)
 - [Mobile](sms:+19715177039) / [Telegram](https://t.me/leask): +1 (971) 517-7039
 
 ## 🧑‍💻 Summary

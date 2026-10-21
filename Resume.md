@@ -42,8 +42,6 @@ Engineered distributed inference pipelines for image and video generation. Lever
 
 ## 🐙 Recent Projects / Open Source
 
-![Leask's GitHub stats](https://github-readme-stats-tau-one-74.vercel.app/api?username=Leask&show_icons=true&theme=transparent)
-
 ### `Escape`
 
 > Oct 2026 – Present

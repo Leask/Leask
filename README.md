@@ -67,19 +67,12 @@ Managed an engineering team based in China to build and scale web services and f
 
 Acted as the foundational engineering hire for a group utility startup, architecting the entire back-end framework and server-side APIs supporting both web and mobile clients.
 
-### `Safirst Technology Co., Ltd`
+### `Safirst Technology Co., Ltd` / `WebOrigin Ltd`
 
 > `Lead Full-Stack Developer`
-> Mar 2010 – Sep 2011
+> Mar 2008 – Sep 2011
 
-Engineered a distributed PHP MVC framework utilized as the foundation for a suite of enterprise SaaS applications.
-
-### `WebOrigin Ltd`
-
-> `Core Full-Stack Developer`
-> Oct 2008 – Mar 2010
-
-Developed WebOrigin CMS, a tailored content management system for SMBs, and WebOrigin Store, a robust e-commerce platform.
+During this period, the main responsibility was leading the team in developing infrastructure such as CMS, e-commerce platforms, and distributed PHP MVC frameworks to support various enterprise-grade SaaS applications.
 
 ## 🐙 Recent Projects / Open Source
 

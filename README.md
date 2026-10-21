@@ -24,9 +24,7 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 ### [`Intelligent Internet`](https://ii.inc/)
 
 > Senior Machine Learning Engineer
-> 
 > Oct 2024 – Present
-> 
 > References: Manager, [Ju Huo](mailto:virushuo@gmail.com), Canada
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.

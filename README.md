@@ -73,7 +73,7 @@ Acted as the foundational engineering hire for a group utility startup, architec
 
 > Lead Full-Stack Developer<br>
 > Mar 2008 – Sep 2011<br>
-> References: Manager, [Congming Wang](mailto:lovelywcm@gmail.com), China
+> References: Manager, [Congming Wang](https://github.com/lovelywcm), China
 
 During this period, the main responsibility was leading the team in developing infrastructure such as CMS, e-commerce platforms, and distributed PHP MVC frameworks to support various enterprise-grade SaaS applications.
 

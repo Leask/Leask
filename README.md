@@ -27,6 +27,8 @@ Passionate technology enthusiast and highly adaptable software engineer with ove
 
 Spearheaded the design and development of multiple AI Agent harness systems and RAG framework. Managed end-to-end ML lifecycles, taking full accountability from curating and cleaning large-scale datasets to model training and final product deployment.
 
+<img width="1600" height="1240" alt="pg18-qps-vs-dataset-scale-2026-04-02" src="https://github.com/user-attachments/assets/738c1a7b-7b5a-4d91-b71b-dba783739a97" />
+
 ![Uploading <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1240" viewBox="0 0 1600 1240">
 <rect width="100%" height="100%" fill="#fffdf8"/>
 <text x="800.00" y="42.00" font-size="28" font-weight="700" fill="#222" text-anchor="middle" font-family="ui-sans-serif, system-ui, sans-serif">QPS vs Dataset Scale (PG18 BEIR Matrix)</text>
@@ -200,8 +202,6 @@ Spearheaded the design and development of multiple AI Agent harness systems and 
 <text x="120.00" y="1156.00" font-size="13" font-weight="400" fill="#666" text-anchor="start" font-family="ui-sans-serif, system-ui, sans-serif">Note: QPS also depends on query count, query length, and token distribution; scale is the dominant visual guide here.</text>
 <text x="120.00" y="1182.00" font-size="13" font-weight="400" fill="#666" text-anchor="start" font-family="ui-sans-serif, system-ui, sans-serif">Representative largest dataset: msmarco | upstream 1.61 | ids 96.67 | text[] 82.13 | pg_search 4.44 | vchord 18.20</text>
 </svg>pg18-qps-vs-dataset-scale-2026-04-02.svg…]()
-
-<img width="1600" height="1240" alt="pg18-qps-vs-dataset-scale-2026-04-02" src="https://github.com/user-attachments/assets/738c1a7b-7b5a-4d91-b71b-dba783739a97" />
 
 Authored and currently maintain [Evoke](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-psql_bm25s.md), the world’s fastest PostgreSQL BM25 extension, and trained a bespoke [SAE encoder model](https://github.com/Intelligent-Internet/Evoke/blob/main/docs/technical-report-evoke-model.md) on top of it to enable advanced [Sparse Semantic Retrieval (SSR)](https://github.com/Intelligent-Internet/Evoke).
 

@@ -34,6 +34,7 @@ Engineered distributed inference pipelines for image and video generation. Lever
 
 ### `Escape`
 
+> Side Project<br>
 > Oct 2026 – Present
 
 <img alt="Escape" src="https://github.com/user-attachments/assets/9d9b3efc-55e7-4799-bae3-b4f961b9aaed" />
@@ -42,6 +43,7 @@ A physics-based 3D driving game developed entirely using an automated AI agent h
 
 ### [`TensorTrace.net`](https://tensortrace.net)
 
+> Side Project<br>
 > Oct 2026 – Present
 
 <img alt="TensorTrace" src="https://github.com/user-attachments/assets/28dead20-8738-4898-a061-a75ddf9bc420" />

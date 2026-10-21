@@ -1,4 +1,4 @@
-<img width="1600" height="1240" alt="pg18-qps-vs-dataset-scale-2026-04-02" src="https://github.com/user-attachments/assets/a4187862-64f7-4bf2-9ddf-e5c9eb29357a" /># [Sixia "Leask" Huang](https://leaskh.com)
+# [Sixia "Leask" Huang](https://leaskh.com)
 
 - Male, YOB 1984
 - Ottawa, ON, Canada

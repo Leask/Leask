@@ -9,7 +9,7 @@
 
 Passionate technology enthusiast and highly adaptable software engineer with over 20 years of experience spanning full-stack development, distributed systems, and cutting-edge AI infrastructure. Driven by a deep curiosity for modern software and hardware, I excel at identifying optimal implementation paths for complex ideas and delivering robust, scalable solutions. Rather than being defined by specific programming languages, I leverage a strong engineering intuition to navigate rapid technological shifts. Whether designing multi-agent workflows, authoring core database extensions, or exploring 3D printing and hardware integration, I thrive on solving difficult engineering challenges and continuously pushing the boundaries of automation and product development.
 
-## Recent Works
+## Works
 
 ### [`Intelligent Internet`](https://ii.inc/)
 
@@ -31,8 +31,6 @@ Based on this continuously converging lexical and semantic unified index, I buil
 > Oct 2023 – Oct 2024
 
 Engineered distributed inference pipelines for image and video generation. Leveraged PyTorch and TensorFlow to optimize, and deploy generative AI, facial recognition, feature extraction, and human posture estimation models. Continuously evaluated and integrated modern technology stacks to accelerate product delivery and meet stringent project requirements.
-
-## Recent Projects / Open Source
 
 ### `Escape`
 

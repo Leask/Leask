@@ -81,7 +81,7 @@ During this period, the main responsibility was leading the team in developing i
 
 ## 🐙 Recent Projects / Open Source
 
-![Leask's GitHub stats](https://github-readme-stats-tau-one-74.vercel.app/api?username=Leask&show_icons=true&theme=transparent)
+![Leask's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leask&show_icons=true&theme=transparent)
 
 ### `Escape`
 

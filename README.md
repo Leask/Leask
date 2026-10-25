@@ -8,6 +8,12 @@
 - LinkedIn: [in/sixia-huang-2b07697](https://www.linkedin.com/in/sixia-huang-2b07697/)
 - [Mobile](sms:+19715177039) / [Telegram](https://t.me/leask): +1 (971) 517-7039
 
+![Leask's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leask&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=leask&layout=compact&langs_count=20&theme=transparent)](https://wakatime.com/@leask)
+
 ## 🧑‍💻 Summary
 
 Passionate technology enthusiast and highly adaptable software engineer with over 20 years of experience spanning full-stack development, Web3 distributed systems, and cutting-edge AI infrastructure. Driven by a deep curiosity for modern software and hardware, I excel at identifying optimal implementation paths for complex ideas and delivering robust, scalable solutions. Rather than being defined by specific programming languages, I leverage a strong engineering intuition to navigate rapid technological shifts. Whether designing multi-agent workflows, authoring core database extensions, or exploring 3D printing and hardware integration, I thrive on solving difficult engineering challenges and continuously pushing the boundaries of automation and product development.
@@ -80,10 +86,6 @@ As a core developer, I was primarily responsible for designing the backend archi
 During this period, the main responsibility was leading the team in developing infrastructure such as CMS, e-commerce platforms, and distributed PHP MVC frameworks to support various enterprise-grade SaaS applications.
 
 ## 🐙 Recent Projects / Open Source
-
-![Leask's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leask&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)
 
 ### `Escape`
 

@@ -83,6 +83,8 @@ During this period, the main responsibility was leading the team in developing i
 
 ![Leask's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leask&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)
+
 ### `Escape`
 
 > Oct 2026 – Present

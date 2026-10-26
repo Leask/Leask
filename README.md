@@ -8,11 +8,7 @@
 - LinkedIn: [in/sixia-huang-2b07697](https://www.linkedin.com/in/sixia-huang-2b07697/)
 - [Mobile](sms:+19715177039) / [Telegram](https://t.me/leask): +1 (971) 517-7039
 
-![Leask's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leask&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&include_all_commits=true&theme=transparent)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Leask&layout=compact&langs_count=20&theme=transparent)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=leask&layout=compact&langs_count=20&theme=transparent)](https://wakatime.com/@leask)
+[![CodeStats](https://codestats.leask.workers.dev/?header=false)](https://github.com/Leask/CodeStats)
 
 ## 🧑‍💻 Summary
 

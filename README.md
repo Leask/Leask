@@ -1,4 +1,8 @@
-# [Sixia "Leask" Huang](https://leaskh.com)
+# [🧑‍💻 Sixia "Leask" Huang](https://leaskh.com)
+
+Passionate technology enthusiast and highly adaptable software engineer with over 20 years of experience spanning full-stack development, Web3 distributed systems, and cutting-edge AI infrastructure. Driven by a deep curiosity for modern software and hardware, I excel at identifying optimal implementation paths for complex ideas and delivering robust, scalable solutions. Rather than being defined by specific programming languages, I leverage a strong engineering intuition to navigate rapid technological shifts. Whether designing multi-agent workflows, authoring core database extensions, or exploring 3D printing and hardware integration, I thrive on solving difficult engineering challenges and continuously pushing the boundaries of automation and product development.
+
+[![CodeStats](https://codestats.leask.workers.dev/?header=false)](https://github.com/Leask/CodeStats)
 
 - he/him, YOB 1984
 - Ottawa, ON, Canada
@@ -7,12 +11,6 @@
 - GitHub: [github.com/Leask](https://github.com/Leask)
 - LinkedIn: [in/sixia-huang-2b07697](https://www.linkedin.com/in/sixia-huang-2b07697/)
 - [Mobile](sms:+19715177039) / [Telegram](https://t.me/leask): +1 (971) 517-7039
-
-[![CodeStats](https://codestats.leask.workers.dev/?header=false)](https://github.com/Leask/CodeStats)
-
-## 🧑‍💻 Summary
-
-Passionate technology enthusiast and highly adaptable software engineer with over 20 years of experience spanning full-stack development, Web3 distributed systems, and cutting-edge AI infrastructure. Driven by a deep curiosity for modern software and hardware, I excel at identifying optimal implementation paths for complex ideas and delivering robust, scalable solutions. Rather than being defined by specific programming languages, I leverage a strong engineering intuition to navigate rapid technological shifts. Whether designing multi-agent workflows, authoring core database extensions, or exploring 3D printing and hardware integration, I thrive on solving difficult engineering challenges and continuously pushing the boundaries of automation and product development.
 
 ## 🧠 Tech / Interests
 

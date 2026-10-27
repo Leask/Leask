@@ -1,0 +1,23 @@
+name: Dependency and site checks
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - uses: ruby/setup-ruby@7f797815d8adceb1c412e7abefdd1ab4abc47a5f # v1
+        with:
+          ruby-version: '4.0'
+          bundler-cache: true
+      - name: Check known dependency vulnerabilities
+        run: bundle exec bundle-audit check --update
+      - name: Build the complete site
+        run: bundle exec jekyll build --strict_front_matter --trace
